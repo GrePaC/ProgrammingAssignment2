@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-##Grecia Pacheco
+
 
 ## Write a short comment describing this function
 ## makeCacheMatrix is a function that take as a parameter a matrix and canculates its inverse, considering that it´s possible
